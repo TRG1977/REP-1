@@ -8,3 +8,8 @@ UUID=3949-F9F4  /boot/efi       vfat    umask=0077      0       1
 # swap was on /dev/sda3 during installation
 UUID=7d72e83b-1322-4fec-8043-2b6e729964f7 none            swap    sw              0       0
 /dev/sr0        /media/cdrom0   udf,iso9660 user,noauto     0       0
+
+
+
+
+добавил этот коментарий после создания third файла
